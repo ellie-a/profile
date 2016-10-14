@@ -1,0 +1,15 @@
+.img {
+ max-width: 600px;
+ height: auto;
+float: right;
+opacity: .8;
+filter: alpha(opacity=100)
+  }
+
+.end {
+  text-align: center;
+}
+
+.lang {
+  color: #B0E0E6
+}
