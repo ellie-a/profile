@@ -53,11 +53,21 @@ background-color: #F4C2C2;
   color: #A85353;
 }
 
+.well {
+  background-color: #ffebee;
+}
+
 .well a {
   color: #A85353;
+  text-align: center;
+}
+
+.well p {
+  text-align: center;
 }
 
 .jumbotron {
+  background-color: #ffebee;
   margin-top: 50px;
 }
 .jumbotron h1 {
