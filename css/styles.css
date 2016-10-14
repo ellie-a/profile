@@ -1,10 +1,27 @@
 .img {
  max-width: 600px;
  height: auto;
+ margin-left: 50px;
+ margin-top: 120px;
 float: right;
 opacity: .8;
 filter: alpha(opacity=100)
   }
+
+.header{
+  color:#A85353;
+  font-family: sans-serif;
+  margin-left: 125px;
+  margin-top: 120px;
+}
+
+.header h1 {
+  margin-top: 30px;
+}
+
+.header p {
+  margin-top: 30px;
+}
 
 .end {
   text-align: center;
@@ -12,4 +29,22 @@ filter: alpha(opacity=100)
 
 .lang {
   color: #B0E0E6
+}
+
+.end {
+float: left;
+align-content: center;
+margin-left: 120px;
+border: 2px solid #F1F1FF;
+padding: 20px;
+background-color: #F4C2C2;
+}
+
+.end a {
+  color: #CE8585;
+  font-family: sans-serif;
+}
+
+.end {
+  color: #A85353;
 }
