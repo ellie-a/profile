@@ -12,7 +12,7 @@ _With the given prompt, I have built a webpage that is a profile about me and to
 
 * _Open terminal_
 * _cd into desktop_
-* _Use the github url to clone to desktop (git clone https://github.com/epicodus-lessons/hello-world_)_
+* _Use the github url to clone to desktop (git clone https://ellie-a.github.io/profile/)_
 * _cd into profiles.2_
 * _use git remote -v to check local_
 * _open html file index.html_
